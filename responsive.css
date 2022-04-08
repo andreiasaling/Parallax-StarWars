@@ -1,0 +1,16 @@
+@media (max-width:800px){
+   
+    section.content{
+        padding: 30px;
+    }
+
+    .parallax h1{
+        font-size: 2.5em;
+        text-align: center;
+    }
+
+    .parallax h1:hover{
+        transform: scale(1.05);
+    }
+    
+}
