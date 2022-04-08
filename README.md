@@ -6,3 +6,4 @@ Parallax com o tema Star Wars
 - HTML
 - CSS
 
+Para ver o resultado final clique [aqui](https://andreiasaling.github.io/Parallax-StarWars/)
